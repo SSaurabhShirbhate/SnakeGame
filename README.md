@@ -71,5 +71,5 @@ If you like this project, please give it a star ⭐ on [GitHub](https://github.c
 
 ---
 
-Thank you for playing the Snake Game! Enjoy and have fun!
+Thank you for playing the Snake Game! Enjoy and have fun and Enjoy the game!
 
